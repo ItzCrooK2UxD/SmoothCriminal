@@ -209,7 +209,7 @@ dalvik.vm.stack-trace-file=/data/anr/traces.txt
 ro.htc.framework.screencapture = false
 \n
 
-#CrooK3D-v1.0.5
+#Added in v1.0.5 
 debug.performance.tuning=1
 video.accelerate.hw=1
 
