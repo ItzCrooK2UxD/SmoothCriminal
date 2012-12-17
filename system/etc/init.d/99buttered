@@ -1,0 +1,19 @@
+#!/system/bin/sh
+
+#Set anthrax features
+
+
+# load scsi-wait driver for OTG
+insmod /system/lib/modules/scsi_wait_scan.ko
+
+# set VSYNC on
+mount -t debugfs debugfs /sys/kernel/debug
+echo 1 >/sys/kernel/debug/msm_fb/0/vsync_enable
+echo 1 >/sys/kernel/debug/msm_fb/0/hw_vsync_mode
+echo 3 >/sys/kernel/debug/msm_fb/0/backbuff
+
+# mpdecision - kernel support
+echo 1 >/sys/kernel/msm_mpdecision/conf/enabled
+
+# camera type selection (rom type) - SENSE MODE
+

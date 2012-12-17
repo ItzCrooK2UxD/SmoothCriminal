@@ -1,0 +1,5 @@
+﻿Project: Shooter_ICS_35_S
+SKU: Sprint WWE ROM
+ROM Build ID: 392393
+Build ID: 392394; SKU: Sprint WWE ROM default; CID: default; MNS: default
+Datetime: 2012/06/18 18:50:04
