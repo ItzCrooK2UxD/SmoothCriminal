@@ -1,11 +1,4 @@
 #Sprint 2.89.651.2 Base, extracted from RUU (ItzCrooK2UxD)
-#butteredToasT RLS 6 Kernel 1.5GHz (QualComm default), GPU 3D @300MHz (QualComm Default), GPU 2D @266MHz (QualComm Default) by bigwillyg
-#Camera Mods (coolexe) 
-#Leedroid Tweaks (JoelZ)
-#Google Now (mikeyxda) 
-#MMS compression disabled by SteelH
-#Sony Play Station Certification, BRAVIA and XLoud by XxXPachaXxX
-#DO NOT REMOVE CREDITS IF USING AS A BASE, BUT FEEL FREE TO ADD TO THEM
 ro.com.google.clientidbase=android-htc
 ro.com.google.clientidbase.yt=android-sprint-us
 ro.com.google.clientidbase.am=android-sprint-us
